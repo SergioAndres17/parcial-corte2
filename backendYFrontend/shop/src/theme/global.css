@@ -1,0 +1,27 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f8f9fa;
+    color: #343a40;
+  }
+  
+  h1, h2 {
+    text-align: center;
+    color: #007bff;
+  }
+  
+  ion-card {
+    background: white;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  ion-button {
+    border-radius: 5px;
+    font-weight: bold;
+  }
+  
+  ion-item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
